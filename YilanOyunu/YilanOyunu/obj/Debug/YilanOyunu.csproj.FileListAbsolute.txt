@@ -1,0 +1,10 @@
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe.config
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.pdb
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.AssemblyReference.cache
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.Form1.resources
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.Properties.Resources.resources
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.GenerateResource.cache
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.exe
+C:\Users\SARIGÖL\Desktop\c# tekrar\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.pdb
